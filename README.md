@@ -9,7 +9,7 @@
 ## How-to
 1. Install ollama app in Windows/Linux/macOS
 ```shell
-http://ollama.com/downloads
+http://ollama.com/download
 ```
 2. Ensure you have Python 3.10+ installed
 3. Create folder and setup venv
